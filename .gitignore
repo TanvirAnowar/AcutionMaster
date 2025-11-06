@@ -54,3 +54,4 @@ TestResult.xml
 nunit-*.xml
 /.vs
 /Auction.SVC/.vs/Auction.SVC
+/Auction.SVC/.vs
