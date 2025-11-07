@@ -1,5 +1,8 @@
-﻿namespace Auction.SVC.Entities;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
+namespace Auction.SVC.Entities;
+
+[Table("Items")]
 public class Item
 {
     public Guid Id { get; set; }

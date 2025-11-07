@@ -1,8 +1,5 @@
 namespace Auction.SVC.Entities;
 
-using System;
-using System.Collections.Generic;
-
 public class Auction
 {
     public Guid Id { get; set; }
